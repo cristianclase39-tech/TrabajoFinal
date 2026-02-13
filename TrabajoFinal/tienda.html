@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo • Retro Boutique</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎩</text></svg>">
+  
+  <link rel="stylesheet" href="css/style.css">
+  
+  <!-- Fuentes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="store-page">
+
+  <!-- Cabecera de la pagina -->
+  <header class="transparent-header">
+    <div class="nav-container">
+      <a href="index.html" class="logo">Vintage<span>Shop</span></a>
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="tienda.html" aria-current="page">Tienda</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Titulo de la pagina -->
+    <section class="page-hero">
+      <h1>Nuestra Colección</h1>
+    </section>
+
+    <div class="store-container">
+      
+      <!-- Filtros de productos -->
+      <aside class="filters">
+        <h3>Filtrar Por</h3>
+        
+        <!-- filtro por categoria -->
+        <div class="filter-group">
+          <label for="filtro-categoria">Categoría</label>
+          <select id="filtro-categoria" class="filter-control">
+            <option value="all">Todas</option>
+            <option value="Ropa">Ropa</option>
+            <option value="Accesorios">Accesorios</option>
+            <option value="Decoración">Decoración</option>
+          </select>
+        </div>
+
+        <!-- filtro por precio -->
+        <div class="filter-group">
+          <label for="filtro-precio">Precio</label>
+          <select id="filtro-precio" class="filter-control">
+            <option value="all">Cualquier precio</option>
+            <option value="under-20">Menos de 20€</option>
+            <option value="20-50">Entre 20€ y 50€</option>
+            <option value="over-50">Más de 50€</option>
+          </select>
+        </div>
+      </aside>
+
+      <!-- Aqui se muestran los productos -->
+      <section class="products-wrapper">
+        <div id="contador-resultados">Cargando productos...</div>
+
+        <div id="contenedor-productos" class="products-grid">
+          <!-- Las tarjetas se crean con JavaScript -->
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Tienda Vintage. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

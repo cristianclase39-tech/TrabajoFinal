@@ -1,0 +1,404 @@
+﻿{
+  "items": [
+    {
+      "id": 1,
+      "categoria": "Ropa",
+      "nombre": "Chaquetón de Pana 90s",
+      "descripcion": "Auténtico chaquetón de pana marrón, estilo oversize. Perfecto para el invierno.",
+      "precio": 45.00,
+      "stock": 5,
+      "tags": ["vintage", "invierno", "ropa"],
+      "imagen": "assets/img/producto_01.jpg"
+    },
+    {
+      "id": 2,
+      "categoria": "Accesorios",
+      "nombre": "Gafas de Sol Retro",
+      "descripcion": "Montura dorada con cristales ahumados. Estilo aviador clásico.",
+      "precio": 15.50,
+      "stock": 10,
+      "tags": ["oferta", "accesorios", "verano"],
+      "imagen": "assets/img/producto_02.jpg"
+    },
+    {
+      "id": 3,
+      "categoria": "Ropa",
+      "nombre": "Camisa Hawaiana Original",
+      "descripcion": "Estampado floral vibrante. Tela ligera de viscosa. Talla L.",
+      "precio": 18.00,
+      "stock": 3,
+      "tags": ["verano", "ropa", "colorido"],
+      "imagen": "assets/img/producto_03.jpg"
+    },
+    {
+      "id": 4,
+      "categoria": "Decoración",
+      "nombre": "Cámara Analógica Decorativa",
+      "descripcion": "Cámara antigua no funcional, ideal para estanterías o coleccionistas.",
+      "precio": 25.00,
+      "stock": 2,
+      "tags": ["deco", "retro", "tecnología"],
+      "imagen": "assets/img/producto_04.jpg"
+    },
+    {
+      "id": 5,
+      "categoria": "Accesorios",
+      "nombre": "Pañuelo de Seda",
+      "descripcion": "Pañuelo con motivos geométricos años 70. Suave y elegante.",
+      "precio": 12.00,
+      "stock": 8,
+      "tags": ["accesorios", "mujer", "elegante"],
+      "imagen": "assets/img/producto_05.jpg"
+    },
+    {
+      "id": 6,
+      "categoria": "Ropa",
+      "nombre": "Vaqueros Levi's 501",
+      "descripcion": "El clásico que nunca muere. Desgastados naturalmente.",
+      "precio": 55.00,
+      "stock": 4,
+      "tags": ["ropa", "denim", "clásico"],
+      "imagen": "assets/img/producto_06.jpg"
+    },
+    {
+      "id": 7,
+      "categoria": "Decoración",
+      "nombre": "Radio Transistor Antigua",
+      "descripcion": "Radio de madera restaurada. Funciona con bluetooth añadido.",
+      "precio": 85.00,
+      "stock": 1,
+      "tags": ["deco", "música", "restaurado"],
+      "imagen": "assets/img/producto_07.jpg"
+    },
+    {
+      "id": 8,
+      "categoria": "Accesorios",
+      "nombre": "Reloj Casio Dorado",
+      "descripcion": "Icono de los 80. Digital, resistente al agua y con alarma.",
+      "precio": 19.99,
+      "stock": 15,
+      "tags": ["accesorios", "reloj", "80s"],
+      "imagen": "assets/img/producto_08.jpg"
+    },
+    {
+      "id": 9,
+      "categoria": "Ropa",
+      "nombre": "Vestido Floral Años 60",
+      "descripcion": "Vestido midi con estampado de margaritas. Cierre de cremallera lateral.",
+      "precio": 38.00,
+      "stock": 2,
+      "tags": ["vintage", "verano", "mujer"],
+      "imagen": "assets/img/producto_09.jpg"
+    },
+    {
+      "id": 10,
+      "categoria": "Accesorios",
+      "nombre": "Bolso de Cuero Vintage",
+      "descripcion": "Bolso de mano estilo años 50. Cuero genuino con hebilla dorada.",
+      "precio": 42.00,
+      "stock": 3,
+      "tags": ["accesorios", "cuero", "elegante"],
+      "imagen": "assets/img/producto_10.jpg"
+    },
+    {
+      "id": 11,
+      "categoria": "Decoración",
+      "nombre": "Teléfono Rotativo Azul",
+      "descripcion": "Teléfono de disco de los años 70. Funcional, conexión estándar.",
+      "precio": 65.00,
+      "stock": 1,
+      "tags": ["deco", "retro", "funcional"],
+      "imagen": "assets/img/producto_11.jpg"
+    },
+    {
+      "id": 12,
+      "categoria": "Ropa",
+      "nombre": "Chaqueta de Cuero Biker",
+      "descripcion": "Chaqueta de cuero negro estilo motociclista. Cremalleras laterales.",
+      "precio": 95.00,
+      "stock": 2,
+      "tags": ["ropa", "cuero", "rock"],
+      "imagen": "assets/img/producto_12.jpg"
+    },
+    {
+      "id": 13,
+      "categoria": "Accesorios",
+      "nombre": "Sombrero Fedora Gris",
+      "descripcion": "Sombrero de fieltro estilo años 40. Cinta de cuero.",
+      "precio": 28.00,
+      "stock": 6,
+      "tags": ["accesorios", "elegante", "clásico"],
+      "imagen": "assets/img/producto_13.jpg"
+    },
+    {
+      "id": 14,
+      "categoria": "Decoración",
+      "nombre": "Máquina de Escribir Remington",
+      "descripcion": "Máquina de escribir mecánica de los 60. Estado impecable.",
+      "precio": 120.00,
+      "stock": 1,
+      "tags": ["deco", "coleccionismo", "oficina"],
+      "imagen": "assets/img/producto_14.jpg"
+    },
+    {
+      "id": 15,
+      "categoria": "Ropa",
+      "nombre": "Jersey de Punto Multicolor",
+      "descripcion": "Jersey oversize con patrón geométrico años 80. Lana suave.",
+      "precio": 32.00,
+      "stock": 4,
+      "tags": ["ropa", "invierno", "colorido"],
+      "imagen": "assets/img/producto_15.jpg"
+    },
+    {
+      "id": 16,
+      "categoria": "Accesorios",
+      "nombre": "Cinturón Trenzado Vintage",
+      "descripcion": "Cinturón de cuero trenzado marrón. Hebilla de latón.",
+      "precio": 18.50,
+      "stock": 12,
+      "tags": ["accesorios", "cuero", "unisex"],
+      "imagen": "assets/img/producto_16.jpg"
+    },
+    {
+      "id": 17,
+      "categoria": "Decoración",
+      "nombre": "Globo Terráqueo Antiguo",
+      "descripcion": "Globo con nomenclatura de países antiguos. Soporte de madera.",
+      "precio": 78.00,
+      "stock": 1,
+      "tags": ["deco", "educativo", "vintage"],
+      "imagen": "assets/img/producto_17.jpg"
+    },
+    {
+      "id": 18,
+      "categoria": "Ropa",
+      "nombre": "Falda Plisada Años 50",
+      "descripcion": "Falda midi plisada en tono burdeos. Cintura alta.",
+      "precio": 35.00,
+      "stock": 3,
+      "tags": ["ropa", "mujer", "elegante"],
+      "imagen": "assets/img/producto_18.jpg"
+    },
+    {
+      "id": 19,
+      "categoria": "Accesorios",
+      "nombre": "Pendientes Art Déco",
+      "descripcion": "Pendientes largos con diseño geométrico. Baño de oro.",
+      "precio": 24.00,
+      "stock": 5,
+      "tags": ["accesorios", "joyería", "elegante"],
+      "imagen": "assets/img/producto_19.jpg"
+    },
+    {
+      "id": 20,
+      "categoria": "Decoración",
+      "nombre": "Reloj de Pared Estación",
+      "descripcion": "Reloj de estación de tren. Números romanos. Funcional.",
+      "precio": 55.00,
+      "stock": 2,
+      "tags": ["deco", "reloj", "industrial"],
+      "imagen": "assets/img/producto_20.jpg"
+    },
+    {
+      "id": 21,
+      "categoria": "Ropa",
+      "nombre": "Blazer Tweed Marrón",
+      "descripcion": "Blazer de tweed con coderas de cuero. Estilo profesor universitario.",
+      "precio": 62.00,
+      "stock": 2,
+      "tags": ["ropa", "elegante", "otoño"],
+      "imagen": "assets/img/producto_21.jpg"
+    },
+    {
+      "id": 22,
+      "categoria": "Accesorios",
+      "nombre": "Cartera de Piel Vintage",
+      "descripcion": "Cartera bifold de cuero envejecido. Costuras a mano.",
+      "precio": 35.00,
+      "stock": 8,
+      "tags": ["accesorios", "cuero", "hombre"],
+      "imagen": "assets/img/producto_22.jpg"
+    },
+    {
+      "id": 23,
+      "categoria": "Decoración",
+      "nombre": "Lámpara de Mesa Tiffany",
+      "descripcion": "Lámpara estilo Tiffany con vitrales multicolor. Funcional.",
+      "precio": 145.00,
+      "stock": 1,
+      "tags": ["deco", "iluminación", "premium"],
+      "imagen": "assets/img/producto_23.jpg"
+    },
+    {
+      "id": 24,
+      "categoria": "Ropa",
+      "nombre": "Suéter Colegial Navy",
+      "descripcion": "Suéter con cuello en V y rayas. Estilo preppy años 80.",
+      "precio": 29.00,
+      "stock": 6,
+      "tags": ["ropa", "unisex", "casual"],
+      "imagen": "assets/img/producto_24.jpg"
+    },
+    {
+      "id": 25,
+      "categoria": "Accesorios",
+      "nombre": "Pajarita de Seda Roja",
+      "descripcion": "Pajarita ajustable de seda. Perfecta para eventos formales.",
+      "precio": 16.00,
+      "stock": 10,
+      "tags": ["accesorios", "elegante", "hombre"],
+      "imagen": "assets/img/producto_25.jpg"
+    },
+    {
+      "id": 26,
+      "categoria": "Decoración",
+      "nombre": "Espejo Dorado Barroco",
+      "descripcion": "Espejo con marco ornamental dorado. Estilo barroco francés.",
+      "precio": 98.00,
+      "stock": 1,
+      "tags": ["deco", "elegante", "espejo"],
+      "imagen": "assets/img/producto_26.jpg"
+    },
+    {
+      "id": 27,
+      "categoria": "Ropa",
+      "nombre": "Pantalones Cargo Militares",
+      "descripcion": "Pantalones cargo verde oliva. Estilo militar años 90.",
+      "precio": 38.00,
+      "stock": 5,
+      "tags": ["ropa", "militar", "unisex"],
+      "imagen": "assets/img/producto_27.jpg"
+    },
+    {
+      "id": 28,
+      "categoria": "Accesorios",
+      "nombre": "Boina Francesa Negra",
+      "descripcion": "Boina de lana estilo parisino. Talla única ajustable.",
+      "precio": 22.00,
+      "stock": 7,
+      "tags": ["accesorios", "francés", "invierno"],
+      "imagen": "assets/img/producto_28.jpg"
+    },
+    {
+      "id": 29,
+      "categoria": "Decoración",
+      "nombre": "Gramófono de Trompeta",
+      "descripcion": "Gramófono decorativo con trompeta de latón. No funcional.",
+      "precio": 175.00,
+      "stock": 1,
+      "tags": ["deco", "música", "coleccionismo"],
+      "imagen": "assets/img/producto_29.jpg"
+    },
+    {
+      "id": 30,
+      "categoria": "Ropa",
+      "nombre": "Chaleco de Punto Beige",
+      "descripcion": "Chaleco sin mangas de punto. Perfecto para capas en otoño.",
+      "precio": 26.00,
+      "stock": 4,
+      "tags": ["ropa", "otoño", "unisex"],
+      "imagen": "assets/img/producto_30.jpg"
+    },
+    {
+      "id": 31,
+      "categoria": "Accesorios",
+      "nombre": "Gemelos Plata Vintage",
+      "descripcion": "Gemelos con diseño de iniciales grabadas. Baño de plata.",
+      "precio": 45.00,
+      "stock": 3,
+      "tags": ["accesorios", "joyería", "elegante"],
+      "imagen": "assets/img/producto_31.jpg"
+    },
+    {
+      "id": 32,
+      "categoria": "Decoración",
+      "nombre": "Maleta de Cuero Antigua",
+      "descripcion": "Maleta de viaje de cuero con remaches. Ideal como deco.",
+      "precio": 88.00,
+      "stock": 2,
+      "tags": ["deco", "cuero", "vintage"],
+      "imagen": "assets/img/producto_32.jpg"
+    },
+    {
+      "id": 33,
+      "categoria": "Ropa",
+      "nombre": "Abrigo de Lana Gris",
+      "descripcion": "Abrigo largo de lana con botones grandes. Estilo años 50.",
+      "precio": 105.00,
+      "stock": 1,
+      "tags": ["ropa", "invierno", "elegante"],
+      "imagen": "assets/img/producto_33.jpg"
+    },
+    {
+      "id": 34,
+      "categoria": "Accesorios",
+      "nombre": "Bufanda de Cachemira",
+      "descripcion": "Bufanda suave de cachemira en tono crema. Unisex.",
+      "precio": 48.00,
+      "stock": 5,
+      "tags": ["accesorios", "invierno", "premium"],
+      "imagen": "assets/img/producto_34.jpg"
+    },
+    {
+      "id": 35,
+      "categoria": "Decoración",
+      "nombre": "Caja de Música Joyero",
+      "descripcion": "Caja de música con bailarina. Madera tallada a mano.",
+      "precio": 52.00,
+      "stock": 2,
+      "tags": ["deco", "música", "femenino"],
+      "imagen": "assets/img/producto_35.jpg"
+    },
+    {
+      "id": 36,
+      "categoria": "Ropa",
+      "nombre": "Polo Lacoste Vintage",
+      "descripcion": "Polo verde con logo bordado. Edición de los 80.",
+      "precio": 42.00,
+      "stock": 3,
+      "tags": ["ropa", "sport", "clásico"],
+      "imagen": "assets/img/producto_36.jpg"
+    },
+    {
+      "id": 37,
+      "categoria": "Accesorios",
+      "nombre": "Pulsera de Cuentas Étnica",
+      "descripcion": "Pulsera artesanal con cuentas de madera y metal.",
+      "precio": 14.00,
+      "stock": 15,
+      "tags": ["accesorios", "étnico", "unisex"],
+      "imagen": "assets/img/producto_37.jpg"
+    },
+    {
+      "id": 38,
+      "categoria": "Decoración",
+      "nombre": "Jarrón de Cerámica Azul",
+      "descripcion": "Jarrón de cerámica esmaltada con diseño oriental.",
+      "precio": 38.00,
+      "stock": 4,
+      "tags": ["deco", "cerámica", "oriental"],
+      "imagen": "assets/img/producto_38.jpg"
+    },
+    {
+      "id": 39,
+      "categoria": "Ropa",
+      "nombre": "Vestido Cóctel Negro",
+      "descripcion": "Vestido corto estilo años 60. Perfecto para fiestas.",
+      "precio": 58.00,
+      "stock": 2,
+      "tags": ["ropa", "mujer", "fiesta"],
+      "imagen": "assets/img/producto_39.jpg"
+    },
+    {
+      "id": 40,
+      "categoria": "Accesorios",
+      "nombre": "Broche Camafeo Victoriano",
+      "descripcion": "Broche camafeo con perfil femenino. Estilo victoriano.",
+      "precio": 68.00,
+      "stock": 1,
+      "tags": ["accesorios", "joyería", "antigüedad"],
+      "imagen": "assets/img/producto_40.jpg"
+    }
+  ]
+}
